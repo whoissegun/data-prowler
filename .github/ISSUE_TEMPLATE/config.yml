@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: DataProwler Community Discussions
+    url: https://github.com/dataprowler/dataprowler/discussions
+    about: Please ask and answer questions here.
+  - name: DataProwler Documentation
+    url: https://dataprowler.readthedocs.io/
+    about: Check the documentation for usage information and guides.
+  - name: Security Issues
+    url: https://github.com/dataprowler/dataprowler/security/policy
+    about: Please report security issues here.
